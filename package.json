@@ -1,0 +1,27 @@
+{
+  "name": "website_blog",
+  "version": "1.0.0",
+  "description": "Blog website for planters",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jatin0104/basic_blog.git"
+  },
+  "author": "jatin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jatin0104/basic_blog/issues"
+  },
+  "homepage": "https://github.com/jatin0104/basic_blog#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
